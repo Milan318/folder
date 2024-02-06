@@ -1,0 +1,4 @@
+What is programming?
+History of C language?
+compiler vs interpreter?
+sacnf(), printf()
