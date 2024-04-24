@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#mainbox{
+    height: 416px;
+    width: 416px;
+    border: 20px solid #fcca91;
+}
+
+.black{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    float: right;
+    background: #000;
+    
+}
+
+.white{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    float: right;
+    background-color: #fff;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   background-image: url(https://cdn.pixabay.com/photo/2018/11/20/13/36/composing-3827454_1280.jpg);
+}
+img{
+    width:50px;
+    height:50px;
+    object-fit: contain;
+}
