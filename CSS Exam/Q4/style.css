@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+.main{
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(6, 1, 11);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.content>img{
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+}
+
+p{
+    word-spacing: 12px;
+    color:rgb(13, 24, 235);
+}

@@ -1,0 +1,26 @@
+.testimonial-heading>h2{
+    color: aqua;
+    text-transform: capitalize;
+    margin-left: 20px;
+   }
+   
+   .testimonial-heading>h1{
+     text-transform: capitalize;
+     margin-left: 20px;
+     color: brown;
+   }
+
+#testimonial-content>h2{
+    color: aqua;
+}
+
+p{
+    color: brown;
+}
+   
+     
+ 
+   
+  
+
+   

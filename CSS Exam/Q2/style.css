@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+#blog-container-1{
+    width: 900px;
+    height: 500px;
+    background-image: url(https://cdn.pixabay.com/photo/2024/01/08/07/34/tank-400-8494825_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 20px;
+}
+
+#blog-content{
+    background-color:black;
+    backdrop-filter: blur(50px);
+    color: white;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* conatiner-2 */
+
+.blog-wrapper{
+    float: left;
+}
+
+#blog-container-2{
+    width: 400px;
+    height: 300px;
+    background-image: url(https://cdn.pixabay.com/photo/2024/01/08/07/34/tank-400-8494825_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    overflow: hidden;
+    margin: 20px;
+}
+
+#blog-content-2{
+    background-color:black;
+    backdrop-filter: blur(50px);
+    color: white;
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
