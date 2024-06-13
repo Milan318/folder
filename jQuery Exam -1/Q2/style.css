@@ -1,0 +1,18 @@
+p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+  }
+
+  #counter-main{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: capitalize;
+  }
+
+  #counter{
+    font-size: xx-large;
+  }
