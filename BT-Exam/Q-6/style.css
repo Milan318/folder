@@ -1,0 +1,20 @@
+.carousel-item {
+    background: url("https://cdn.pixabay.com/photo/2016/04/18/13/53/room-1336497_1280.jpg"), rgba(0, 0, 0, 0.7);
+    background-size: cover;
+    height: 100vh;
+    background-blend-mode: color-burn;
+  }
+  
+  .carousel-content {
+    padding: 25% 0%;
+  }
+  
+  .carousel-content h2 {
+    background-image: linear-gradient(to right,brown,white);
+    background-clip: text;
+    color: transparent;
+  }
+  
+  
+  
+  
